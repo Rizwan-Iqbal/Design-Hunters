@@ -1,0 +1,1458 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="//gmpg.org/xfn/11">
+<title>Page not found &#8211; Clenia &#8211; Cleaning Services WordPress Theme</title>
+<meta name='robots' content='noindex, nofollow' />
+<link rel='dns-prefetch' href='//cdn.datatables.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+<link rel="alternate" type="application/rss+xml" title="Clenia - Cleaning Services WordPress Theme &raquo; Feed" href="https://keenitsolutions.com/products/wordpress/clenia/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Clenia - Cleaning Services WordPress Theme &raquo; Comments Feed" href="https://keenitsolutions.com/products/wordpress/clenia/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/keenitsolutions.com\/products\/wordpress\/clenia\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-includes/css/dist/block-library/style.min.css?ver=5.9' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='extendify-utilities-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/redux-framework/extendify-sdk/public/build/extendify-utilities.css?ver=0.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/css/bootstrap.min.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/css/magnific-popup.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-latest-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/css/fontawesome.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/css/slick.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='materialize-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/css/materialize.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/css/slick-theme.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='brands-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/css/brands.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='solid-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/css/solid.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='rsaddons-floaticon-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/fonts/flaticon.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='headding-title-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/css/headding-title.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='dataTables-css'  href='//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='rsaddons-pro-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/css/rsaddons.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='boostrap-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/css/bootstrap.min.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-all-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/css/uicons-regular-rounded.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flaticon-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/css/flaticon.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/css/owl.carousel.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='clenia-style-default-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/css/default.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='clenia-style-custom-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/css/custom.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='clenia-style-responsive-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/css/responsive.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='clenia-style-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/style.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='studio-fonts-css'  href='//fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%26display%3Dswap&#038;ver=1.0.0' type='text/css' media='all' />
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic&#038;display=swap&#038;ver=1643364237" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic&#038;display=swap&#038;ver=1643364237" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic&#038;display=swap&#038;ver=1643364237" /></noscript><script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://keenitsolutions.com/products/wordpress/clenia/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://keenitsolutions.com/products/wordpress/clenia/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://keenitsolutions.com/products/wordpress/clenia/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9" />
+<meta name="framework" content="Redux 4.3.7" /><meta name="generator" content="Powered by Slider Revolution 6.5.11 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";					
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<style id="clenia_option-dynamic-css" title="dynamic-css" class="redux-options-output">#rs-header.header-style8 .rs-address-area .info-title, #rs-header.header-style8 .rs-address-area .info-des, #rs-header.header-style8 .rs-address-area .info-des a{color:#333333;}#rs-header.header-style8 .rs-address-area .info-des a:hover{color:#007cfb;}</style>
+<!-- Typography -->
+
+<style>	
+	
+	body{
+		background:#FFFFFF;
+		color:#454545 !important;
+		font-family: Poppins !important;    
+	    font-size: 16px !important;
+	}
+
+			body.single-teams{
+			background:#FFFFFF;
+		}
+	
+
+	#cl-testimonial.testimonial-dark .testimonial-slide.slider1 .testimonial-item .testimonial-content{
+		background: rgba(1, 83, 159, 0.8) !important;
+	}
+
+
+	h1{
+		color:#0a0a0a;
+		font-family:Poppins;
+		font-size:48px;
+				font-weight:700;
+				
+					line-height:58px;
+				
+	}
+
+	h2{
+		color:#0a0a0a; 
+		font-family:Poppins;
+		font-size:36px;
+				font-weight:700;
+				
+					line-height:40px			}
+
+	h3{
+		color:#0a0a0a ;
+		font-family:Poppins;
+		font-size:28px;
+				
+					line-height:32px;
+			}
+
+	h4{
+		color:#0a0a0a;
+		font-family:Poppins;
+		font-size:20px;
+				font-weight:700;
+				
+					line-height:28px;
+				
+	}
+
+	h5{
+		color:#0a0a0a;
+		font-family:Poppins;
+		font-size:18px;
+				font-weight:700;
+				
+					line-height:28px;
+			}
+
+	h6{
+		color:#0a0a0a ;
+		font-family:Poppins;
+		font-size:16px;
+				font-weight:700;
+				
+					line-height:20px;
+			}
+
+	.menu-area .navbar ul li > a,
+	.sidenav .widget_nav_menu ul li a{
+		font-weight:600;
+		font-family:Poppins;
+		font-size:15px;
+	}
+
+	#rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li,
+	#rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li a, 
+	#rs-header .toolbar-area .toolbar-contact ul li a,
+	#rs-header .toolbar-area .toolbar-contact ul li, #rs-header .toolbar-area{
+		color:#FFFFFF;
+	}
+
+
+				#rs-header.header-transparent .toolbar-area .toolbar-contact ul.rs-contact-info li,
+			#rs-header.header-transparent .toolbar-area .toolbar-contact ul.rs-contact-info li i,
+			#rs-header.header-transparent .toolbar-area .toolbar-contact ul.rs-contact-info li a,
+			#rs-header.header-style-4 .btn_quote .toolbar-sl-share ul li a
+			{
+				color: #333333			}
+		
+				#rs-header.header-transparent .toolbar-area .toolbar-contact ul.rs-contact-info li:hover a,
+			#rs-header.header-style-4 .btn_quote .toolbar-sl-share ul li a:hover{
+			color: #FFD600		}
+			
+
+
+
+	#rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li a,
+	#rs-header .toolbar-area .toolbar-contact ul li a,
+	#rs-header .toolbar-area .toolbar-contact ul li i,
+	#rs-header .toolbar-area .toolbar-sl-share ul li a i{
+		color:#FFFFFF;
+	}
+
+	#rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li a:hover,
+	#rs-header .toolbar-area .toolbar-sl-share ul li a.quote-buttons:hover,
+	#rs-header .toolbar-area .toolbar-sl-share ul li a.quote-buttons:before,
+	#rs-header .toolbar-area .toolbar-contact ul li a:hover,
+	#rs-header .toolbar-area .toolbar-sl-share ul li a i:hover{
+		color:#FFD600;
+	}
+	
+
+	
+	.mobile-menu-container div ul > li.current_page_parent > a,
+	#rs-header.header-transparent .menu-area .navbar ul li.current-menu-ancestor a, 
+	#rs-header.header-transparent .menu-area .navbar ul li.current_page_item a,
+	.menu-area .navbar ul.menu > li.current_page_item > a,
+	.menu-area .navbar ul li.current-menu-ancestor a, .menu-area .navbar ul li.current_page_item a,
+	.menu-area .navbar ul li ul.sub-menu > li.menu-item-has-children > a:before
+	{
+		color: #01539F;
+	}
+
+	
+	
+	.menu-area .navbar ul > li.menu-item-has-children.hover-minimize > a:after{
+		background: #01539F !important;
+	}	
+
+	.menu-area .navbar ul > li.menu-item-has-children.hover-minimize:hover > a:after{
+		background: #01539F !important;
+	}
+
+	.menu-area .navbar ul li:hover a:before{
+		color: #01539F;
+	}
+
+	.menu-area .navbar ul li:hover > a,	
+	.mobile-menu-container div ul li a:hover,	
+	#rs-header.header-style5 .header-inner.menu-sticky.sticky .menu-area .navbar ul li:hover > a,
+	#rs-header.header-style-4 .menu-area .menu li:hover > a,
+	#rs-header.header-style-3.header-style-2 .sticky-wrapper .menu-area .navbar ul li:hover > a
+	{
+		color: #01539F;
+	}
+
+	.menu-area .navbar ul li a,
+	#rs-header .menu-responsive .sidebarmenu-search .sticky_search,	
+	.menu-cart-area i, #rs-header.header-transparent .menu-area.dark .menu-cart-area i
+	{
+		color: #101010; 
+	}
+
+	#rs-header.header-transparent .menu-area.dark .navbar ul.menu > li.current_page_item > a::before, 
+	#rs-header.header-transparent .menu-area.dark .navbar ul.menu > li.current_page_item > a::after, 
+	#rs-header.header-transparent .menu-area.dark .navbar ul.menu > li > a::before,
+	#rs-header.header-transparent .menu-area.dark .navbar ul.menu > li > a::after,
+	#rs-header.header-transparent .menu-area.dark .navbar ul.menu > li > a,	
+	#rs-header.header-transparent .menu-area.dark .menu-responsive .sidebarmenu-search .sticky_search .fa
+	{
+		color: #101010 !important;
+	}
+
+	
+	#rs-header.header-transparent .menu-area.dark ul.offcanvas-icon .nav-link-container .nav-menu-link span{
+		background: #101010 !important;
+	}
+
+
+			#rs-header.header-transparent .menu-area .navbar ul li a, 
+		#rs-header.header-transparent .menu-cart-area i,
+		#rs-header.header-style8 .menu-area .navbar ul > li.active a,
+		#rs-header.header-style8 .menu-area .navbar ul > li a,
+		#rs-header.header-style8 .menu-area .navbar ul#single-menu > li:hover a,
+		#rs-header.header-style8 .rs-full-menuarea #primary-menu-single > li > a,
+		#rs-header.header-style8 .rs-full-menuarea .toolbar-sl-share ul li a,
+		#rs-header.header-transparent .menu-responsive .sidebarmenu-search .sticky_search,
+		#rs-header.header-transparent .menu-responsive .sidebarmenu-search .sticky_search .fa,
+		#rs-header.header-transparent .menu-area.dark .navbar ul > li > a,
+		#rs-header.header-transparent .menu-area .navbar ul li:hover > a{
+			color:#FFFFFF 
+	}
+	
+			#rs-header.header-style8 .rs-full-menuarea .toolbar-sl-share{
+			border-color:#FFFFFF 
+		}
+	
+			#rs-header.header-style5 .header-inner .menu-area .navbar ul > li > a,
+		#rs-header.header-style5 .menu-responsive .sidebarmenu-search .sticky_search,
+		#rs-header.header-style5 .menu-cart-area i{
+			color:#FFFFFF 
+		}
+	
+
+
+
+			#rs-header.header-style5 .header-inner .menu-area .navbar ul li:hover > a{
+			color:#01539F 
+		}
+	
+			#rs-header .toolbar-area{			
+			background:#01539F 
+		}
+	
+
+
+
+			#rs-header.header-style5 .header-inner .menu-area .navbar ul > li.menu-item-has-children.hover-minimize:hover > a:after{
+			background:#01539F !important;  
+		}
+	
+
+
+			#rs-header.header-style5 .header-inner .menu-area .navbar ul > li.menu-item-has-children.hover-minimize > a:after{
+			background:#01539F !important; 
+		}
+	
+	
+
+		#rs-header.header-style5 .menu-area .navbar ul > li.current-menu-ancestor > a, 
+	#rs-header.header-style5 .header-inner .menu-area .navbar ul > li.current-menu-ancestor > a,
+	#rs-header.header-style5 .header-inner.menu-sticky.sticky .menu-area .navbar ul > li.current-menu-ancestor > a{
+			color:#01539F !important; 
+		}
+	
+
+	 
+		.header-style-4 .menu-cart-area span.icon-num, 
+		.header-style5 .menu-cart-area span.icon-num
+		{
+			background: #FFFFFF !important;
+		}
+	
+	
+	
+
+			#rs-header.header-transparent .menu-area.dark ul.offcanvas-icon .nav-link-container .nav-menu-link span{
+			background:#FFFFFF 
+		}
+	
+	
+
+		
+
+		
+
+			.nav-link-container .nav-menu-link span.dot1,
+		.nav-link-container .nav-menu-link span.dot3,
+		.nav-link-container .nav-menu-link span.dot5,
+		.nav-link-container .nav-menu-link span.dot7,
+		.nav-link-container .nav-menu-link span.dot9,
+		#rs-header .nav-link-container .nav-menu-link span.dot-hum,
+		#rs-header.header-transparent ul.offcanvas-icon .nav-link-container .nav-menu-link span, 
+		#rs-header.header-style5 .menu-responsive ul.offcanvas-icon .nav-link-container .nav-menu-link span,
+		#rs-header.header-style5 .menu-responsive ul.offcanvas-icon .nav-link-container .nav-menu-link span,
+		#rs-header.header-transparent ul.offcanvas-icon .nav-link-container .nav-menu-link span, 
+		#rs-header.header-style5 .menu-responsive ul.offcanvas-icon .nav-link-container .nav-menu-link span{
+			background:#333333 !important;
+		}
+		@media only screen and (max-width: 991px) {
+  			#rs-header.single-header .header-inner .nav-link-container .nav-menu-link span.dot1,
+  			#rs-header.single-header .header-inner .nav-link-container .nav-menu-link span.dot3,
+  			#rs-header.single-header .header-inner .nav-link-container .nav-menu-link span.dot5,
+  			#rs-header.single-header .header-inner .nav-link-container .nav-menu-link span.dot7,
+  			#rs-header.single-header .header-inner .nav-link-container .nav-menu-link span.dot9{
+  				background:#333333 !important;
+  			}
+  		}
+	
+	
+			@media only screen and (max-width: 991px) {
+  			#rs-header.single-header .header-inner.sticky .nav-link-container .nav-menu-link span.dot1,
+  			#rs-header.single-header .header-inner.sticky .nav-link-container .nav-menu-link span.dot3,
+  			#rs-header.single-header .header-inner.sticky .nav-link-container .nav-menu-link span.dot5,
+  			#rs-header.single-header .header-inner.sticky .nav-link-container .nav-menu-link span.dot7,
+  			#rs-header.single-header .header-inner.sticky .nav-link-container .nav-menu-link span.dot9{
+  				background:#333333 !important;
+  			}
+  		}
+	
+	
+
+	
+	
+	
+
+
+			#rs-header.header-transparent .menu-area .navbar ul > li > a:hover,
+		#rs-header.header-transparent .menu-area .navbar ul li:hover > a,
+		#rs-header.header-transparent .menu-area.dark .navbar ul > li:hover > a,
+		#rs-header.header-style-4 .header-inner .menu-area .navbar ul li:hover a,
+		#rs-header.header-style-4 .menu-area .navbar ul li:hover a:before{
+			color:#01539F 
+		}
+	
+
+
+
+			#rs-header.header-transparent .menu-area .navbar ul > li.current_page_item > a,
+		#rs-header.header-style-4 .menu-area .menu > li.current-menu-ancestor > a,
+		#rs-header.header-transparent .menu-area .navbar ul > li.current-menu-ancestor > a,
+		#rs-header.header-style-4 .menu-area .menu > li.current_page_item > a{
+			color:#01539F !important; 
+		}
+	
+	#rs-header.header-transparent .menu-area .navbar ul.menu > li.current_page_item > a::before,
+	#rs-header.header-transparent .menu-area .navbar ul.menu > li.current_page_item > a::after, 
+	#rs-header.header-transparent .menu-area .navbar ul.menu > li > a::after{
+		color:#01539F !important; 
+	}
+
+			
+		#rs-header.header-transparent ul.offcanvas-icon .nav-link-container .nav-menu-link span,
+		#rs-header.header-style5 .menu-responsive ul.offcanvas-icon .nav-link-container .nav-menu-link span{
+			background:#FFFFFF 
+		}
+	
+			.menu-area .navbar ul li .sub-menu li a,
+		#rs-header .menu-area .navbar ul li.mega ul li a,
+		#rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current-menu-ancestor > a,
+		#rs-header.header-transparent .menu-area .navbar ul li.current-menu-ancestor li a{
+			color:#101010 !important;
+		}
+	
+	
+			.menu-area .navbar ul li ul.sub-menu li.current_page_item > a,
+		.menu-area .navbar ul li .sub-menu li a:hover,
+		#rs-header.header-style5 .menu-area .navbar ul > li.current_page_item ul > a,
+		#rs-header .menu-area .navbar ul li.mega ul > li > a:hover,
+		.menu-area .navbar ul li ul.sub-menu li:hover > a,
+		body .header-style1 .menu-area .navbar ul li ul.sub-menu li:hover > a,
+		body #rs-header .menu-area .navbar ul li.mega ul.sub-menu li a:hover,
+		#rs-header.header-style5 .header-inner .menu-area .navbar ul li .sub-menu > li:hover > a,
+		#rs-header.header-transparent .menu-area .navbar ul li .sub-menu li:hover > a,
+		#rs-header .menu-area .navbar ul li.mega ul li a:hover,
+		#rs-header.header-style-4 .menu-area .menu .sub-menu li:hover > a,
+		#rs-header.header-style3 .menu-area .navbar ul li .sub-menu li:hover > a,
+		#rs-header .menu-area .navbar ul li.mega ul > li.current-menu-item > a,
+		.menu-sticky.sticky .menu-area .navbar ul li ul li a:hover,
+		#rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current-menu-ancestor > a, #rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current_page_item > a,
+		#rs-header.header-transparent .menu-area .navbar ul li.current-menu-ancestor li a:hover{
+			color:#01539F !important;
+		}
+	
+
+
+			.menu-area .navbar ul li .sub-menu{
+			background:#FFFFFF;
+		}
+	
+
+			#rs-header .toolbar-area .toolbar-contact ul li,
+		#rs-header .toolbar-area a{
+			font-size:14px;
+		}
+	
+	
+	
+	
+
+			.footer-bottom .copyright p{
+			color:#454545;
+		}
+	
+
+			.rs-footer, .rs-footer h3, .rs-footer a, 
+		.rs-footer .fa-ul li a, 
+		.rs-footer .widget.widget_nav_menu ul li a{
+			font-size:16px;
+		}
+	
+			.rs-footer h3, .rs-footer .footer-top h3.footer-title{
+			font-size:20px;
+		}
+	
+		
+
+			.rs-footer, .rs-footer .footer-top h3.footer-title, .rs-footer a, .rs-footer .fa-ul li a,
+		.rs-footer .widget.widget_nav_menu ul li a
+		{
+			color:#FFFFFF;
+		}
+	
+			.rs-footer .footer-top .widget.widget_rstext_widget h3.footer-title{
+			color:#111111;
+		}
+	
+			.rs-footer .contact-intros{
+			color:#454545;
+		}
+	
+			.rs-footer .contact-intro{
+			color:#454545;
+		}
+	
+
+			body .rs-footer .widget.widget_nav_menu ul li a
+		{
+			color:#454545;
+		}
+	
+
+
+
+
+			.rs-footer .footer-top h3.footer-title
+		{
+			color:#FFFFFF;
+		}
+	
+			.rs-footer a:hover, .rs-footer .widget.widget_nav_menu ul li a:hover,
+		.rs-footer .fa-ul li a:hover,
+		.rs-footer .widget.widget_pages ul li a:hover, .rs-footer .widget.widget_recent_comments ul li:hover, .rs-footer .widget.widget_archive ul li a:hover, .rs-footer .widget.widget_categories ul li a:hover,
+		.rs-footer .widget a:hover{
+			color:#000000;
+		}
+	
+	
+
+		
+		ul.footer_social > li > a{
+			color:#111111 !important;
+		}
+	
+		
+		ul.footer_social > li > a:hover{
+			color:#666666 !important;
+		}
+	
+	
+			.footer-btn-wrap .footer-btn:hover,.footer-subscribe input[type=submit]:hover{
+			background:#FFD600;
+		}
+		
+			.rs-footer .footer-top .mc4wp-form-fields input[type="email"]{
+			border-color:#FFD600;
+		}
+	
+			.rs-footer .footer-top .mc4wp-form-fields input[type="submit"],
+		.rs-footer .footer-top .mc4wp-form-fields i{
+			color:#0A0A0A;
+		}
+	
+	
+
+	.rs-services-default .services-wrap .services-item .services-icon i,	
+	.rs-blog .blog-item .blog-slidermeta span.category a:hover,
+	.btm-cate li a:hover,	
+	.ps-navigation ul a:hover span,	
+	.rs-portfolio-style5 .portfolio-item .portfolio-content a,
+	.rs-services1.services-left.border_style .services-wrap .services-item .services-icon i:hover,
+	.rs-services1.services-right .services-wrap .services-item .services-icon i:hover,
+	.rs-galleys .galley-img .zoom-icon:hover,
+	#about-history-tabs ul.tabs-list_content li:before,
+	#rs-header.header-style-3 .header-inner .logo-section .toolbar-contact-style4 ul li i,
+	#sidebar-services .widget.widget_nav_menu ul li.current-menu-item a,
+	#sidebar-services .widget.widget_nav_menu ul li a:hover,
+	#rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current-menu-ancestor > a, 
+	#rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current_page_item > a,
+	rs-heading .title-inner .title,
+	.team-grid-style1 .team-item .team-content1 h3.team-name a, 
+	.rs-team-grid.team-style5 .team-item .normal-text .person-name a,
+	.rs-team-grid.team-style4 .team-wrapper .team_desc .name a,
+	.rs-team-grid.team-style4 .team-wrapper .team_desc .name .designation,	
+	.contact-page1 .form-button .submit-btn i:before,	
+	.woocommerce nav.woocommerce-pagination ul li span.current, 
+	.woocommerce nav.woocommerce-pagination ul li a:hover,
+	ul.check-icon li:before,
+	.rs-project-section .project-item .project-content .title a:hover,
+	.subscribe-text i, .subscribe-text .title, .subscribe-text span a:hover,
+	.timeline-icon,
+	#rs-header.header-style8 .rs-address-area .info-icon i,
+	.service-carousels .services-sliders3 span.num,
+	.service-readons:before,
+	.services-sliders4:hover .services-desc h4.services-title a,	
+	.rs-footer.footerlight .footer_social li a .fa,
+	#rs-header .menu-area .navbar ul > li.active a,
+	.rsaddon-unique-slider .blog-content .blog-footer .blog-meta i,
+	.rs-footer .recent-post-widget .show-featured .post-desc i
+	{
+		color:#01539F;
+	}
+	.brush-list ul li:before,
+	.portfolio-slider-data .slick-next, 
+	.portfolio-slider-data .slick-prev,
+	.ps-navigation ul a:hover span,
+	ul.chevron-right-icon li:before,
+	.sidenav .fa-ul li i,
+	.rs-portfolio.style2 .portfolio-slider .portfolio-item .portfolio-content h3.p-title a:hover,
+	#rs-header.header-style5 .stuck.sticky .menu-area .navbar ul > li.active a,	
+	.rs-breadcrumbs .breadcrumbs-inner .cate-single .post-categories a:hover,
+	.woocommerce-message::before, .woocommerce-info::before,
+	.rs-sl-social-icons a:hover,
+	.rs-portfolio.vertical-slider.style4 .portfolio-slider .portfolio-item:hover .p-title a{
+		color:#01539F !important;
+	}
+
+	
+	.transparent-btn:hover,
+	.testimonial-light #cl-testimonial .testimonial-slide7 .single-testimonial:after,
+	.rs-portfolio-style2 .portfolio-item .portfolio-img .read_more:hover,
+	.service-carousel .owl-dots .owl-dot.active,
+	.service-carousel .owl-dots .owl-dot,
+	.rs-footer.footerlight .footer-top .mc4wp-form-fields input[type="email"],
+	.bs-sidebar .tagcloud a:hover,
+	.rs-blog-details .bs-info.tags a:hover,
+	.single-teams .team-skill .rs-progress
+	{
+		border-color:#01539F !important;
+	}
+	
+	.owl-carousel .owl-nav [class*="owl-"],
+	html input[type="button"]:hover, input[type="reset"]:hover,
+	.rs-video-2 .popup-videos:before,
+	.sidenav .widget-title:before,
+	.rs-team-grid.team-style5 .team-item .team-content,
+	.rs-team-grid.team-style4 .team-wrapper .team_desc::before,
+	.rs-team .team-item .team-social .social-icon,
+	.rs-services-style4:hover .services-icon i,
+	.team-grid-style1 .team-item .social-icons1 a:hover i,
+	.loader__bar,
+	blockquote:before,
+	.rs-blog-grid .blog-img a.float-cat,
+	#sidebar-services .download-btn ul li,
+	.transparent-btn:hover,
+	.rs-portfolio-style2 .portfolio-item .portfolio-img .read_more:hover,
+	.rs-video-2 .popup-videos,
+	.rs-blog-details .blog-item.style2 .category a, .rs-blog .blog-item.style2 .category a, .blog .blog-item.style2 .category a,
+	.rs-blog-details .blog-item.style1 .category a, .rs-blog .blog-item.style1 .category a, .blog .blog-item.style1 .category a,	
+	.icon-button a,
+	.team-grid-style1 .team-item .image-wrap .social-icons1, .team-slider-style1 .team-item .image-wrap .social-icons1,
+	.rs-heading.style8 .title-inner:after,
+	.rs-heading.style8 .description:after,
+	#slider-form-area .form-area input[type="submit"],
+	.services-style-5 .services-item:hover .services-title,
+	#sidebar-services .rs-heading .title-inner h3:before,	
+	#rs-contact .contact-address .address-item .address-icon::before,
+	.team-slider-style4 .team-carousel .team-item:hover,
+	#rs-header.header-transparent .btn_quote a:hover,
+	.bs-sidebar .tagcloud a:hover,
+	.rs-heading.style2:after,
+	.rs-blog-details .bs-info.tags a:hover,
+	.mfp-close-btn-in .mfp-close,
+	.top-services-dark .rs-services .services-style-7.services-left .services-wrap .services-item,
+	.single-teams .team-inner h3:before,
+	.single-teams .team-detail-wrap-btm.team-inner,
+	::selection,
+	.rs-heading.style2 .title:after,
+	.rs-blog-details #reply-title:before,
+	.rs-cta .style2 .title-wrap .exp-title:after,
+	.rs-project-section .project-item .project-content .p-icon,
+	.proces-item.active:after, .proces-item:hover:after,
+	.subscribe-text .mc4wp-form input[type="submit"],
+	.rs-footer #wp-calendar th,
+	.service-carousel.services-dark .services-sliders2 .services-desc:before, 
+	.service-carousels.services-dark .services-sliders2 .services-desc:before,
+	.rs-services .services-style-9 .services-wrap:after,
+	.nav-link-container .nav-menu-link span,
+	.portfolio-slider-data .slick-dots li.slick-active, 
+	.portfolio-slider-data .slick-dots li:hover,
+	.rs-portfolio.vertical-slider.style4 .portfolio-slider .portfolio-item .p-title a:before,
+	.rs-team-grid.team-style4 .team-wrapper:hover .team_desc,
+	.rs-heading.style6 .title-inner .sub-text:after,
+	.woocommerce div.product .woocommerce-tabs ul.tabs li:hover,
+	.woocommerce span.onsale,
+	.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+	.bs-sidebar .widget-title:after,
+	#rs-header .sticky_form,
+	.rs-porfolio-details .ps-informations .info-title:after,
+	.menu-wrap-off .inner-offcan .nav-link-container .close-button span,
+	.sidenav .offcanvas_social li a i,
+	.rs-addon-slider .slick-dots li button, .rs-addon-slider .slick-dots li.slick-active button,
+	.rs-addon-slider .slick-dots li button:hover
+	{
+		background:#01539F;
+	}
+	.woocommerce span.onsale{
+		background:#01539F !important;
+	}
+	.portfolio-slider-data .slick-dots li{
+		background:#061340;
+	}
+
+	
+	
+
+	.sidenav .widget_nav_menu ul li a:hover,
+	.rs-blog .blog-item .blog-meta .blog-date i, .full-blog-content .author i,
+	.full-blog-content .btm-cate .tag-line i,
+	.full-blog-content .blog-title a:hover,
+	.bs-sidebar .recent-post-widget .post-desc span i,
+	.single-post .single-posts-meta .fa-comments-o:before{
+		color:#01539F !important;
+	}
+	#cl-testimonial .testimonial-slide7 .single-testimonial:after, #cl-testimonial .testimonial-slide7 .single-testimonial:before{
+		border-right-color: #01539F;
+		border-right: 30px solid #01539F;
+	}
+	#cl-testimonial .testimonial-slide7 .single-testimonial{
+		border-left-color: #01539F;
+	}
+	.team-slider-style1 .team-item .team-content1 h3.team-name a:hover,
+	.rs-service-grid .service-item .service-content .service-button .readon.rs_button:hover:before,
+	.rs-heading.style6 .title-inner .sub-text,
+	.rs-heading.style7 .title-inner .sub-text,
+	.rs-portfolio-style1 .portfolio-item .portfolio-content .pt-icon-plus:before,
+	.team-grid-style1 .team-item .team-content1 h3.team-name a, 
+	.service-readons:hover,
+	.service-readons:before:hover
+	{
+		color:#01539F !important;
+	}	
+
+	.rs-services-style3 .bg-img a,
+	.rs-services-style3 .bg-img a:hover,
+	.wp-block-file .wp-block-file__button
+	{
+		background:#01539F;
+		border-color: #01539F;
+	}
+	.rs-service-grid .service-item .service-content .service-button .readon.rs_button:hover{
+		border-color: #01539F;;
+		color: #01539F;
+	}
+
+	.woocommerce div.product p.price ins, .woocommerce div.product span.price ins,
+	.woocommerce div.product p.price, .woocommerce div.product span.price, 
+	.cd-timeline__content .short-info h2, .cd-timeline__content .short-info h3{
+		color: #01539F!important;
+	}
+	.rs-slider-video:before,
+	.team-grid-style3 .team-img .team-img-sec:before,
+	#loading,	
+	#sidebar-services .bs-search button:hover, 
+	.team-slider-style3 .team-img .team-img-sec:before,
+	.rs-blog-details .blog-item.style2 .category a:hover, 
+	.rs-blog .blog-item.style2 .category a:hover, 
+	.blog .blog-item.style2 .category a:hover,
+	.icon-button a:hover,
+	.rs-blog-details .blog-item.style1 .category a:hover, 
+	.rs-blog .blog-item.style1 .category a:hover, 
+	.blog .blog-item.style1 .category a:hover,
+	.skew-style-slider .revslider-initialised::before,
+	.top-services-dark .rs-services .services-style-7.services-left .services-wrap .services-item:hover,
+	.icon-button a:hover,
+	.fullwidth-services-box .services-style-2:hover,
+	#rs-header.header-style-4 .logo-section:before,
+	.post-meta-dates,
+	.rs-footer .widget ul li .fa:hover,
+	.cd-timeline__img.cd-timeline__img--picture,
+	.rs-portfolio-style4 .portfolio-item .portfolio-img:before,
+	.rs-portfolio-style3 .portfolio-item .portfolio-img:before,
+	.rs-skill-bar .skillbar .skillbar-bar,
+	.woocommerce ul.products li .glyph-icon,
+	.rs-slider-video::before,
+	.rs-slider-video::after,
+	.rs-heading.style16 .title-inner .sub-text::before,
+	.rs-portfolio-style1 .portfolio-item .portfolio-img i,
+	.rs-flip-box .rs-flip-box-inner .back-part
+	{
+		background: #01539F;
+	}
+
+	html input[type="button"], input[type="reset"], input[type="submit"]{
+		background: #01539F;
+	}
+
+
+	.round-shape:before{
+		border-top-color: #061340;
+		border-left-color: #061340;
+	}
+	.round-shape:after{
+		border-bottom-color: #061340;
+		border-right-color: #061340;
+	}
+
+	#sidebar-services .download-btn,
+	.rs-video-2 .overly-border,
+	.woocommerce-error, .woocommerce-info, .woocommerce-message{
+		border-color:#01539F !important;
+	}
+
+	.testimonial-light #cl-testimonial .testimonial-slide7 .single-testimonial:before,	
+	.testimonial-light #cl-testimonial .testimonial-slide7 .single-testimonial:after{
+		border-right-color: #061340 !important;
+		border-top-color: transparent !important;
+	}
+
+	.testimonial-light #cl-testimonial .testimonial-slide7 .single-testimonial{
+		border-left-color:#061340 !important;
+	}
+	.portfolio-filter button:hover, 
+	.portfolio-filter button.active,
+	.team-grid-style1 .team-item .team-content1 h3.team-name a:hover,
+	#cl-testimonial .testimonial-slide7 .right-content i,
+	.testimonial-light #cl-testimonial .testimonial-slide7 .single-testimonial .cl-author-info li:first-child,
+	.rs-blog-details .bs-img .blog-date span.date, .rs-blog .bs-img .blog-date span.date, .blog .bs-img .blog-date span.date, .rs-blog-details .blog-img .blog-date span.date, .rs-blog .blog-img .blog-date span.date, .blog .blog-img .blog-date span.date,	
+	.rs-portfolio-style5 .portfolio-item .portfolio-content a:hover,
+	#cl-testimonial.cl-testimonial9 .single-testimonial .cl-author-info li,
+	#cl-testimonial.cl-testimonial9 .single-testimonial .image-testimonial p i,
+	.rs-services1.services-left.border_style .services-wrap .services-item .services-icon i,
+	.rs-services1.services-right .services-wrap .services-item .services-icon i,
+	#rs-skills .vc_progress_bar h2,
+	.rs-portfolio.style2 .portfolio-slider .portfolio-item .portfolio-img .portfolio-content .categories a:hover,
+	.woocommerce ul.products li.product .price,
+	#rs-services-slider .menu-carousel .heading-block h4 a:hover,
+	.rs-team-grid.team-style5 .team-item .normal-text .person-name a:hover,
+	.service-readons:hover, .service-readons:hover:before,
+	.single-teams .designation-info,
+	ul.unorder-list li:before,
+	.rs-footer .widget.widget_nav_menu ul li a:before, 
+	.rs-footer .widget.widget_pages ul li a:before, 
+	.rs-footer .widget.widget_archive ul li a:before, 
+	.rs-footer .widget.widget_categories ul li a:before,
+	.woocommerce ul.products li.product .price ins,
+	.mobile-topnars .rs-address-area .rs-address-list i::before,
+	.rs-features-list-content li i,
+	body.woocommerce div.product p.price ins, 
+	body.woocommerce div.product span.price ins, 
+	body.woocommerce ul.products li.product .price ins,
+	.single-teams .ps-informations ul li.phone i, 
+	.single-teams .ps-informations ul li.email i,
+	.single-teams .ps-informations ul li.social-icon i:hover
+	{
+		color: #01539F;
+	}
+	.rs-team-grid.team-style4 .team-wrapper .team_desc:before,
+	.rs-team-grid.team-style5 .team-item .normal-text .team-text:before,
+	.rs-services3 .slick-arrow,
+	.single-teams .ps-image .ps-informations,
+	.slidervideo .slider-videos,
+	.slidervideo .slider-videos:before,
+	.service-readon,
+	.service-carousel .owl-dots .owl-dot.active,	
+	.rs-blog-details .bs-img .categories .category-name a, .rs-blog .bs-img .categories .category-name a, .blog .bs-img .categories .category-name a, .rs-blog-details .blog-img .categories .category-name a, .rs-blog .blog-img .categories .category-name a, .blog .blog-img .categories .category-name a{
+		background: #01539F;
+	}
+
+	.rs-blog-details .bs-img .blog-date:before, .rs-blog .bs-img .blog-date:before, .blog .bs-img .blog-date:before, .rs-blog-details .blog-img .blog-date:before, .rs-blog .blog-img .blog-date:before, .blog .blog-img .blog-date:before{		
+		border-bottom: 0 solid;
+    	border-bottom-color: #01539F;
+    	border-top: 80px solid transparent;
+    	border-right-color: #01539F;
+    }
+
+    .border-image.small-border .vc_single_image-wrapper:before{
+	    border-bottom: 250px solid #01539F;
+	}
+
+	.border-image.small-border .vc_single_image-wrapper:after{
+		border-top: 250px solid #01539F;
+	}
+
+	.border-image .vc_single_image-wrapper:before,
+	.team-grid-style3 .team-img:before, .team-slider-style3 .team-img:before{
+		border-bottom-color: #01539F;   			
+	}
+
+	.border-image .vc_single_image-wrapper:after,
+	.team-grid-style3 .team-img:after, .team-slider-style3 .team-img:after{
+		border-top-color: #01539F;   	
+	}
+
+	.woocommerce-info,
+	.timeline-alter .divider:after,
+	body.single-services blockquote,	
+	.rs-porfolio-details.project-gallery .file-list-image .p-zoom:hover
+	{
+		border-color: #01539F;  
+	}
+	
+	.slidervideo .slider-videos i,
+	.list-style li::before,
+	.slidervideo .slider-videos i:before,
+	#team-list-style .team-name a,
+	.rs-blog .blog-item .blog-button a:hover{
+		color: #01539F;
+	}
+
+	.rs-blog .blog-meta .blog-title a:hover
+	.about-award a:hover,
+	#team-list-style .team-name a:hover,
+	#team-list-style .team-social i:hover,
+	#team-list-style .social-info .phone a:hover,
+	.woocommerce ul.products li .woocommerce-loop-product__title a:hover,
+	#rs-contact .contact-address .address-item .address-text a:hover,
+	a,.bs-sidebar .recent-post-widget .post-desc a:hover,
+	.rs-blog .blog-meta .blog-title a:hover,
+	.rs-blog .blog-item .blog-meta .categories a:hover,
+	.bs-sidebar ul a:hover,
+	a:hover, a:focus, a:active 
+	{
+		color: #01539F;
+	}
+
+	.about-award a:hover{
+		border-color: #01539F;
+	}
+
+	
+	.rs-blog-details .bs-img .categories .category-name a:hover, .rs-blog .bs-img .categories .category-name a:hover, .blog .bs-img .categories .category-name a:hover, .rs-blog-details .blog-img .categories .category-name a:hover, .rs-blog .blog-img .categories .category-name a:hover, .blog .blog-img .categories .category-name a:hover,
+	#rs-header.header-style-4 .logo-section .times-sec{
+		background: #01539F;
+	}
+
+	
+	.rs-heading.style3 .description:after,
+	.team-grid-style1 .team-item .social-icons1 a i, .team-slider-style1 .team-item .social-icons1 a i,
+	.owl-carousel .owl-nav [class*="owl-"]:hover,
+	button, html input[type="button"], input[type="reset"],
+	.rs-service-grid .service-item .service-img:before,
+	.rs-service-grid .service-item .service-img:after,
+	#rs-contact .contact-address .address-item .address-icon::after,
+	.rs-services1.services-left.border_style .services-wrap .services-item .services-icon i:hover,
+	.rs-services1.services-right .services-wrap .services-item .services-icon i:hover,
+	.rs-service-grid .service-item .service-content::before,
+	.rs-services-style4 .services-item .services-icon i,
+	#rs-services-slider .img_wrap:before,
+	#rs-services-slider .img_wrap:after,
+	.rs-galleys .galley-img:before,
+	.woocommerce-MyAccount-navigation ul li:hover,
+	.woocommerce-MyAccount-navigation ul li.is-active,
+	.rs-galleys .galley-img .zoom-icon,
+	.team-grid-style2 .team-item-wrap .team-img .team-img-sec::before,
+	.services-style-5 .services-item .icon_bg,
+	#cl-testimonial.cl-testimonial10 .slick-arrow,
+	.contact-sec .contact:before, .contact-sec .contact:after,
+	.contact-sec .contact2:before,
+	.team-grid-style2 .team-item-wrap .team-img .team-img-sec:before,
+	.rs-porfolio-details.project-gallery .file-list-image:hover .p-zoom:hover,	
+	.team-slider-style2 .team-item-wrap .team-img .team-img-sec:before,
+	.rs-team-grid.team-style5 .team-item .normal-text .social-icons a i:hover
+	{
+		background: #01539F;
+	}
+
+	#rs-header.header-style-4 .logo-section .times-sec:after{
+		border-bottom-color: #01539F;
+	}
+	
+	#rs-header .toolbar-area .toolbar-contact ul li,
+	#rs-header .toolbar-area .opening
+	{
+		border-right-color:#01539F;
+	}
+
+	
+
+	.footer-bottom .container-fluid,
+	.bs-sidebar.dynamic-sidebar .service-singles .menu li a:hover{
+		border-color:#01539F;
+	}
+
+
+	.full-video .rs-services1.services-left .services-wrap .services-item .services-icon i,
+	#cl-testimonial.cl-testimonial9 .single-testimonial .testimonial-image img,
+	.rs-services1.services-left.border_style .services-wrap .services-item .services-icon i,
+	.rs-services1.services-right .services-wrap .services-item .services-icon i,
+	#cl-testimonial.cl-testimonial10 .slick-arrow,
+	.team-grid-style2 .team-item-wrap .team-img img, .team-slider-style2 .team-item-wrap .team-img img,
+	.contact-sec .wpcf7-form .wpcf7-text, .contact-sec .wpcf7-form .wpcf7-textarea{
+		border-color: #01539F !important;
+	}
+
+				#rs-services-slider .item-thumb .owl-dot.service_icon_style.active .tile-content a, 
+			#rs-services-slider .item-thumb .owl-dot.service_icon_style:hover .tile-content a,
+			.team-grid-style2 .appointment-bottom-area .app_details:hover a, .team-slider-style2 .appointment-bottom-area .app_details:hover a{
+				color: #01539F !important;	
+			}
+			
+
+
+				#rs-header .menu-sticky.sticky .menu-area,
+			#rs-header.header-style-3.header-style-2 .sticky-wrapper .header-inner.sticky .box-layout{
+				background: #FFFFFF !important;	
+			}
+		
+
+
+				#rs-header.header-style-4 .header-inner.sticky .nav-link-container .nav-menu-link span{
+				background: #101010;	
+			}
+		
+
+				#rs-header .menu-sticky.sticky .menu-area .navbar ul li a,
+			#rs-header.header-style-4 .header-inner.sticky .menu-cart-area i,
+			#rs-header.header-style-4 .header-inner.sticky .sidebarmenu-search i,
+			#rs-header.header-style-4 .header-inner.sticky .btn_quote .toolbar-sl-share ul li a{
+				color: #101010;
+			}
+			
+
+				 #rs-header.header-transparent .menu-sticky.sticky .menu-area .navbar ul > li.current-menu-ancestor > a,
+			#rs-header .menu-sticky.sticky .menu-area .navbar ul > li.current-menu-ancestor > a,
+			#rs-header .menu-sticky.sticky .menu-area .navbar ul > li.current_page_item > a,
+			#rs-header.header-style8 .menu-sticky.sticky .menu-area .navbar ul li.active a,
+			#rs-header .menu-sticky.sticky .menu-area .navbar ul#single-menu li.active a,
+			#rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li.current-menu-item page_item a,
+			#rs-header.header-style-4 .menu-sticky.sticky .menu-area .navbar ul > li.current_page_item > a,
+			#rs-header.header-style-4 .menu-sticky.sticky .menu-area .menu > li.current-menu-ancestor > a{
+				color: #01539F !important;	
+			}
+		
+			.menu-sticky.sticky .menu-area .navbar ul li .sub-menu{
+			background:#FFFFFF;
+		}
+	
+
+			#rs-header.header-style-4 .header-inner.sticky .nav-link-container .nav-menu-link:hover span{
+			background:#01539F;
+		}
+	
+				#rs-header .menu-sticky.sticky .menu-area .navbar ul > li:hover > a,
+			#rs-header.header-style-4 .header-inner.sticky .btn_quote .toolbar-sl-share ul > li a:hover,
+			#rs-header.header-style-4 .header-inner.sticky .menu-cart-area i:hover,
+			#rs-header.header-style-4 .header-inner.sticky .sidebarmenu-search i:hover,			
+			#rs-header .menu-sticky.sticky .menu-area .navbar ul li ul.submenu > li.current-menu-ancestor > a{
+				color: #01539F !important;	
+			}
+		
+				#rs-header .toolbar-area .toolbar-sl-share ul li a.quote-buttons{
+			color: #FFFFFF		}
+			
+
+				#rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li a{
+				color: #101010 !important;	
+			}
+		
+				#rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li a:hover,
+			#rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li.current-menu-item page_item a,
+			#rs-header .menu-sticky.sticky .menu-area .navbar ul  li .sub-menu li.current_page_item > a
+			{
+				color: #01539F !important;	
+			}
+			
+
+			.rs-footer{
+			background: #01539F;
+			background-size: cover;
+		}
+			
+
+			.rs-footer .footer-bottom .copyright a{
+			color:#333333 !important;			
+		}
+	
+			.rs-footer .footer-bottom .copyright a:hover{
+			color:#444444 !important;			
+		}
+	
+
+			.rs-form-shape:after,
+		.wp-block-file .wp-block-file__button{
+			border-color:#01539F;			
+		}
+	
+
+	
+
+
+
+			.submit-btn .wpcf7-submit{
+			color:#FFFFFF;			
+		}
+	
+
+		
+
+			
+		.woocommerce button.button,
+		.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce .wc-forward, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,
+		.woocommerce a.button,
+		.woocommerce .wc-forward,
+		.woocommerce button.button.alt,   
+		.woocommerce ul.products li a.button,
+		.menu-sticky.sticky .quote-button:hover,
+		#rs-header.header-style-3 .btn_quote .quote-button{
+			color:#FFFFFF;			
+		}
+	
+			.submit-btn .wpcf7-submit:hover, 
+		#rs-header.header-style-3 .btn_quote .quote-button:hover{
+			color:#FFFFFF !important;
+		}
+	
+
+	
+			@media only screen and (min-width: 1300px) {
+			.container{
+				max-width:1280px;
+			}
+		}
+	
+
+
+			@media only screen and (max-width: 991px) {
+			#rs-header .logo-area a img, #rs-header .mobile-logos img{
+				max-height:40px !important;
+			}
+		}
+	
+			.menu-area .navbar ul li{
+			padding-left:20px;
+			padding-right:20px;
+		}
+	
+			.menu-area .navbar ul > li,
+		#rs-header .menu-responsive .sidebarmenu-search .sticky_search{
+			padding-top:32px;
+		}
+	
+			.menu-area .navbar ul > li,
+		#rs-header .menu-responsive .sidebarmenu-search .sticky_search{
+			padding-bottom:32px;
+		}
+	
+			.sidenav #mobile_menu .widget_nav_menu ul li,
+		.menu-area .navbar ul li span.description{
+			font-size:22px;
+		}
+	
+
+			.menu-area .navbar ul li:not(.mega) ul.sub-menu li{
+			padding-left:40px;
+			padding-right:40px;
+		}
+	
+			.menu-area .navbar ul li ul.sub-menu{
+			padding-top:21px;
+			padding-bottom:21px;
+		}
+	
+			.menu-area .navbar ul li ul.sub-menu li{
+			padding-top:10px;
+			padding-bottom:10px;
+		}
+	
+
+			#rs-header .menu-area .navbar ul > li.mega > ul{
+			padding-left:40px;
+			padding-right:40px;
+		}
+	
+			#rs-header .menu-area .navbar ul > li.mega > ul{
+			padding-top:21px;
+			padding-bottom:21px;
+		}
+	
+			#rs-header .menu-area .navbar ul li.mega ul.sub-menu li a{
+			padding-top:10px;
+			padding-bottom:10px;
+		}
+	
+
+			.rs-breadcrumbs{
+			background:#01539F;			
+		}
+	
+			.rs-breadcrumbs .breadcrumbs-title span a:after, .rs-breadcrumbs .breadcrumbs-title span a:before{
+			color:#01539F;			
+		}
+	
+
+		
+
+
+	
+	
+			.menu-wrap-off .off-nav-layer{
+			background:#FFFFFF;			
+		}
+	
+
+			.sidenav p, .sidenav{
+			color:#333333;			
+		}
+	
+			body .sidenav .widget .widget-title{
+			color:#333333 !important;			
+		}
+	
+	
+
+			.sidenav .widget_nav_menu ul li a,
+		.sidenav.offcanvas-icon .rs-offcanvas-right a,
+		.sidenav .menu > li.menu-item-has-children:before,
+		.sidenav a{
+			color:#333333;			
+		}
+		
+
+			ul.sidenav .menu > li.menu-item-has-children:before, 
+		.sidenav .offcanvas_social li a i{
+			color:#FFFFFF;			
+		}
+	
+	
+			.sidenav .widget_nav_menu ul li a:hover, 
+		.sidenav a:hover{
+			color:#555555;			
+		}
+	
+	
+	
+
+			.rs-breadcrumbs .page-title,
+		.rs-breadcrumbs ul li *,
+		.rs-breadcrumbs ul li.trail-begin a:before,
+		.rs-breadcrumbs ul li,
+		.rs-breadcrumbs .breadcrumbs-title .current-item,
+		.rs-breadcrumbs .breadcrumbs-title span a span{
+			color:#FFFFFF !important;			
+		}
+	
+			.rs-breadcrumbs .breadcrumbs-inner,
+		#rs-header.header-style-3 .rs-breadcrumbs .breadcrumbs-inner{
+			padding-top:205px;			
+			padding-bottom:175px;			
+	}
+	
+			body.single-post, body.blog, body.archive, body.single-services, body.single-mp-event{
+			background:#FFFFFF;					
+		}
+	
+				.spinner{
+			background-color: #01539F !important; 
+		}		
+	
+			#clenia-load{
+			background: #FFFFFF !important;  
+		}
+	
+	
+		
+	
+
+
+</style>
+
+	  	  <style>
+	  	  	.main-contain #content{
+	  	  		padding-top:100px !important;
+	  	  		padding-bottom:100px !important;
+	  	  	}	  	  	
+	  	  	
+	  	  </style>	
+	  	
+	  	<style>
+
+	  		
+	  		
+	  		
+	  		
+
+	  		
+	  		
+	  		
+
+	  		
+	  					
+
+	  		
+	  			  			  		
+	  		
+	  		
+
+			
+	  		
+
+	  		
+			
+			
+
+	  		
+	  		
+
+
+	  		
+	  		
+	  		
+
+	  		
+
+	  					
+
+	  						
+
+	  						
+
+	  					
+
+	  			
+
+	  					
+
+
+	  		
+	  		
+	  		
+	  		
+	  		
+	  					
+	  		
+
+	  		
+
+	  		
+
+
+	  		
+
+	  					
+
+	  		
+	  					
+
+	  		
+			
+			
+
+
+
+			
+			
+
+			
+			
+			
+	  		
+			
+			
+			
+			
+			
+
+
+			
+			
+			
+
+	  	  		 	
+		  	</style>
+	</head>
+
+<body class="error404 hfeed elementor-default elementor-kit-5">    
+
+	 
+     
+    <!--Preloader start here-->
+              <div id="clenia-load">
+            <div class="preload-wrap">
+              <img src="https://keenitsolutions.com/products/wordpress/clenia/wp-content/uploads/2022/01/preloader-logo.png" alt="Clenia - Cleaning Services WordPress Theme">
+            </div>
+          </div>
+        
+       <!--Preloader area end here-->
+    <div id="page" class="site">        
+        <!-- End Header Menu End -->
+                        <div class="main-contain offcontents">                
+            <div class="page-error not-found-bg" style="background:url(https://keenitsolutions.com/products/wordpress/clenia/wp-content/uploads/2022/01/clenia-404.jpg)">
+    <div class="container">
+        <div id="content">
+            <div id="primary" class="content-area">
+                <main id="main" class="site-main">    
+                    <section class="error-404 not-found">    
+                        <div class="page-content">
+                            <h2>
+                                <span>
+                                    
+                                    404                                </span>                      
+                                Page Not Found                            </h2>
+                            <a class="readon" href="https://keenitsolutions.com/products/wordpress/clenia/">
+                                Back to Homepage                            </a>
+                        </div><!-- .page-content -->
+                    </section><!-- .error-404 -->    
+                </main><!-- #main -->
+            </div><!-- #primary -->
+        </div>
+    </div>   
+</div> <!-- .page-error -->
+     
+</div><!-- .main-container -->
+
+		<script type="text/javascript">
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><link rel='stylesheet' id='rs-plugin-settings-css'  href='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.11' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/keenitsolutions.com\/products\/wordpress\/clenia\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.11' defer async id='tp-tools-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.11' defer async id='revmin-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/jquery.plugin.js?ver=201513434' id='jquery-plugin-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/jquery.cookie.js?ver=201513434' id='jquery-cookie-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/jquery.magnific-popup.min.js?ver=201513434' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/popper.min.js?ver=201513434' id='popper-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/bootstrap.min.js?ver=201513434' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/datatables.min.js?ver=201513434' id='datatables-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/waypoints.min.js?ver=201513434' id='waypoints-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/jquery.counterup.min.js?ver=201513434' id='jquery-counterup-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/time-circle.js?ver=201513434' id='time-circle-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/headding-title.js?ver=201513434' id='headding-title-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/slick.min.js?ver=201513434' id='slick-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/materialize.min.js?ver=201513434' id='materialize-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/tilt.jquery.min.js?ver=201513434' id='js-tilt-view-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/jquery-ui.js?ver=201513434' id='jquery-ui-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/jQuery-plugin-progressbar.js?ver=201513434' id='jquery-plugin-progressbar-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/plugins/rselements/assets/js/custom.js?ver=201513434' id='rsaddons-custom-pro-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/js/modernizr-2.8.3.min.js?ver=20151215' id='modernizr-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/js/owl.carousel.min.js?ver=20151215' id='owl-carousel-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/js/waypoints-sticky.min.js?ver=20151215' id='waypoints-sticky-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/js/isotope-clenia.js?ver=20151215' id='isotope-clenia-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/js/jquery.magnific-popup.min.js?ver=20151215' id='jquery-magnific-popup-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/js/classie.js?ver=201513434' id='clenia-classie-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/js/theia-sticky-sidebar.js?ver=20151215' id='theia-sticky-sidebar-js'></script>
+<script type='text/javascript' src='https://keenitsolutions.com/products/wordpress/clenia/wp-content/themes/clenia/assets/js/main.js?ver=201513434' id='clenia-main-js'></script>
+  </body>
+</html>
